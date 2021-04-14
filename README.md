@@ -1,5 +1,2 @@
 # Virtual Interpretor
-A simple virtual interpreter prototype for the deaf based on Arduino and python, can interpret a speech and display sign languages for the user.
-
-~ Developed by me
-
+My first programming project that I completed in grade 11. A simple virtual interpreter prototype for the deaf based on Arduino and Python3, can interpret speech and display sign languages accordingly for the user.
